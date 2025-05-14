@@ -3,8 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/your-username/ai-platform/internal/pkg/config"
-	"github.com/your-username/ai-platform/internal/pkg/messaging"
+	"github.com/Nikita512321/AI-PLATFORM-GO/internal/pkg/config"
+	"github.com/Nikita512321/AI-PLATFORM-GO/internal/pkg/messaging"
 )
 
 func main() {
